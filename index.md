@@ -55,7 +55,7 @@ My key skills are:
 I have experience working with:
 
 - Python – Django, Flask
-- PHP – Larvel, Zend, Kohana, Symfony
+- PHP – Laravel, Zend, Kohana, Symfony
 - Ruby – Ruby on Rails
 
 ### Talks & Lectures
