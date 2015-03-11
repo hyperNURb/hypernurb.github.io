@@ -1,0 +1,28 @@
+.page-about {
+    height: auto !important;
+    max-height: none !important;
+
+    body {
+        height: auto !important;
+        max-height: none !important;
+    }
+    background:
+        url('/assets/images/bg.jpg') right bottom no-repeat,
+        url('/assets/images/title.jpg');
+    background-attachment: fixed;
+
+    .post {
+        margin: 35px 6rem 35px 12rem;
+        background: rgba(255, 255, 255, 0.7);
+        padding: 4rem;
+        border-radius: 3px;
+    }
+    .post-content {
+        & > blockquote {
+            font-size: 2.2rem;
+            line-height: 3rem;
+        }
+    }
+}
+
+

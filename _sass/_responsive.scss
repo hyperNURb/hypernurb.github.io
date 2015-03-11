@@ -1,0 +1,149 @@
+/**
+ * About page.
+ */
+.page-about {
+    .post {
+        @media screen and (max-width: 940px) {
+            margin: 0 auto;
+            padding-top: 6.5rem;
+        }
+    }
+}
+
+
+
+
+/**
+ * Menu.
+ */
+.site__sidebar {
+    @media screen and (max-width: 940px) {
+        width: 100%;
+        height: auto;
+        bottom: auto;
+
+        /**
+         * Support old browsers.
+         */
+        -moz-transform: translate(0, -110%);
+        -ms-transform: translate(0, -110%);
+        -webkit-transform: translate(0, -110%);
+        transform: translate(0, -110%);
+
+        /**
+         * Animations for new browsers and mobile.
+         */
+        -moz-transform: translate3d(0, -110%, 0);
+        -ms-transform: translate3d(0, -110%, 0);
+        -webkit-transform: translate3d(0, -110%, 0);
+        transform: translate3d(0, -110%, 0);
+
+
+        .site__show-menu & {
+            width: 100%;
+            height: auto;
+            bottom: auto;
+
+            /**
+             * Support old browsers.
+             */
+            -moz-transform: translate(0, 0);
+            -ms-transform: translate(0, 0);
+            -webkit-transform: translate(0, 0);
+            transform: translate(0, 0);
+
+            /**
+             * Animations for new browsers and mobile.
+             */
+            -moz-transform: translate3d(0, 0, 0);
+            -ms-transform: translate3d(0, 0, 0);
+            -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+
+            .site__sidebar-menu {
+                box-sizing: border-box;
+                width: 100%;
+                padding: 10px 50px;
+                text-align: center;
+            }
+        }
+    }
+}
+
+
+
+
+
+.site__menu-wrapper {
+    @media screen and (max-width: 940px) {
+        left: 0;
+        top: 0;
+        width: 100%;
+        padding: 10px;
+        background: rgba(255, 255, 255, .95);
+
+        .site__show-menu & {
+            background: rgba(255, 255, 255, .3);
+        }
+        .site__menu-logo {
+            padding-top: 0;
+        }
+    }
+
+    /**
+     * On blog post we need to move hamburger menu earlier to top because of
+     * back button.
+     */
+    .post-template & {
+        @media screen and (max-width: 1180px) {
+            left: 0;
+            top: 0;
+            width: 100%;
+            padding: 10px;
+            background: rgba(255, 255, 255, .95);
+
+            .site__show-menu & {
+                background: rgba(255, 255, 255, .3);
+            }
+        }
+    }
+}
+
+/**
+ * Global fixes
+ *
+ * 1. Prevent duble scroll.
+ */
+.home-template,
+.page-template {
+    &.site__show-menu {
+        @media screen and (max-height: 385px) {
+            overflow: hidden; /* [1] */
+        }
+    }
+}
+
+.page-about {
+    @media screen and (max-width: 1320px) {
+        background:
+            url('/assets/images/bg.jpg') bottom right no-repeat,
+            url('/assets/images/title.jpg');
+        background-attachment: scroll;
+        background-size: 200%;
+
+        .site-footer {
+            margin-top: 20rem;
+        }
+    }
+}
+
+/**
+ * Blog post without cover.
+ *
+ * 1. Move post tile down.
+ */
+.no-cover.post-head.main-header {
+    @media screen and (max-width: 940px) {
+        height: 65px; /* [1] */
+    }
+}
