@@ -9,13 +9,11 @@ paginate: 15
 paginate_path: '/blog/:num/'
 baseurl: '/'
 blogurl: '/blog'
-# domain_name: 'http://simplified.me'
-domain_name: 'https://hypernurb.herokuapp.com'
+domain_name: 'http://simplified.me'
 google_analytics: 'UA-267787-27'
 
 # Details for the RSS feed generator
-# url:            'http://simplified.me'
-url:            'https://hypernurb.herokuapp.com'
+url:            'http://simplified.me'
 author:         'Ivan Tatic'
 
 exclude: [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
