@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Ivan Tatić
+title: Ivan Križnar
 cover: false
 ---
 
@@ -104,4 +104,4 @@ Feel free to contact me anytime. You can find me on:
 - [Twitter](http://twitter.com/eewan)
 - [Facebook](http://www.facebook.com/tatic.ivan)
 - [GitHub](https://github.com/hypernurb)
-- [LinkedIn](http://www.linkedin.com/in/ivantatic)
+- [LinkedIn](http://www.linkedin.com/in/ivankriznar)

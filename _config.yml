@@ -1,4 +1,4 @@
-name: Ivan Tatić
+name: Ivan Križnar
 description: "Web developer with more then 10 years of experience building exceptional websites and services."
 meta_description: "Adventures in web development"
 
@@ -14,6 +14,6 @@ google_analytics: 'UA-267787-27'
 
 # Details for the RSS feed generator
 url:            'http://simplified.me'
-author:         'Ivan Tatic'
+author:         'Ivan Križnar'
 
 exclude: [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
