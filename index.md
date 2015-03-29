@@ -102,6 +102,6 @@ Feel free to contact me anytime. You can find me on:
 - [Skype](skype:itevserp?chat)
 - [Email](mailto:ivan+website@simplified.me)
 - [Twitter](http://twitter.com/eewan)
-- [Facebook](http://www.facebook.com/tatic.ivan)
+- [Facebook](https://www.facebook.com/profile.php?id=1083954301)
 - [GitHub](https://github.com/hypernurb)
 - [LinkedIn](http://www.linkedin.com/in/ivankriznar)
