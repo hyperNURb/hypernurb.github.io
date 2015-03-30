@@ -31,7 +31,7 @@ Bruce.prototype.talk = function () {
 };
 {% endhighlight %}
 
-Most common ways of adding of adding the methods these functions are:
+Most common ways of adding the methods these functions are:
 
 #### 1. Extending objects
 
