@@ -75,4 +75,4 @@ Superhero.call(Bruce.prototype);
 {% endhighlight %}
 
 
-What do you prefer?
+Which approach do you prefer?
