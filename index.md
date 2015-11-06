@@ -74,7 +74,7 @@ I usually spend my spare time with my wife and friends. I love to cook, explore 
 
 ### People I love spending time with
 
-[Psywerx](http://psywerx.net),
+[Psywerx](http://psywerx.org),
 [Anže Pečar](http://smotko.si),
 [Sava Lazin](http://savalazin.com),
 [Aleksandar Dragojlović](http://www.alexdrag.com),
@@ -90,7 +90,7 @@ I usually spend my spare time with my wife and friends. I love to cook, explore 
 [Srđan Vranac](http://blog.code4hire.com),
 [Miroslav Georgijević](http://www.georgijevic.com),
 [Robert Bašić](http://robertbasic.com),
-[Matic Potočnik](http://hairyfotr.psywerx.net)
+[Matic Potočnik](http://hairyfotr.psywerx.org)
 
 <small>If you don't have personal website, you're not listed. No hard feelings :-)</small>
 
