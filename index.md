@@ -27,7 +27,7 @@ Applications I've worked on were used by large brand names like
 
 
 ##### Reciprocity Inc.
-I was hired as a subcontactor for an open-source _GGRC_ (Google Governance, Risk and Compliance) project led by Google. One of my primary duties is to improve the current front end architecture and its performance.
+I was hired as a subcontractor for an open-source _GGRC_ (Google Governance, Risk and Compliance) project led by Google. One of my primary duties is to improve the current front end architecture and its performance.
 
 
 ##### Rebelmouse
