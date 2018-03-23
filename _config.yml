@@ -3,7 +3,7 @@ description: "Web developer with more than 10 years of experience building excep
 meta_description: "Adventures in web development"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: true
 paginate: 15
 paginate_path: '/blog/:num/'
