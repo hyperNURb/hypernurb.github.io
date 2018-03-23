@@ -100,7 +100,7 @@ I usually spend my spare time with my wife and friends. I love to cook, explore 
 Feel free to contact me anytime. You can find me on:
 
 - [Email](mailto:ivan+website@simplified.me)
-- [Facebook](https://www.facebook.com/profile.php?id=1083954301)
 - [Twitter](https://twitter.com/ivankriznar)
+- [Facebook](https://www.facebook.com/ivan.kriznar)
 - [GitHub](https://github.com/hypernurb)
 - [LinkedIn](http://www.linkedin.com/in/ivankriznar)
