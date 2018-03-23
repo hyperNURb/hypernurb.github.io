@@ -2,7 +2,7 @@ name: Ivan Križnar
 description: "Web developer with more than 10 years of experience building exceptional websites and services."
 meta_description: "Adventures in web development"
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 logo: true
 paginate: 15
