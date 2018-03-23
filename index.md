@@ -99,7 +99,6 @@ I usually spend my spare time with my wife and friends. I love to cook, explore 
 
 Feel free to contact me anytime. You can find me on:
 
-- [Skype](skype:itevserp?chat)
 - [Email](mailto:ivan+website@simplified.me)
 - [Twitter](http://twitter.com/eewan)
 - [Facebook](https://www.facebook.com/profile.php?id=1083954301)
