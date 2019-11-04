@@ -27,7 +27,7 @@ Applications I've worked on were used by large brand names like
 
 
 ##### Octane AI
-Octane AI is a Facebook Messenger chatbot platform that specializes in ecommerce marketing. My resposibilities were to develop features focused around Shopify integration and build 3rd party platform integrations.
+Octane AI is a Facebook Messenger chatbot platform that specializes in ecommerce marketing. My resposibilities were to develop features focused around our Shopify integration and build 3rd party platform integrations. During the time I was there the Octane AI Shopify App was featured by Shopify twice and also was a trending app in their app store.
 
 
 ##### Reciprocity Inc.
@@ -51,9 +51,9 @@ As a developer my primary focus is JavaScript, athough I am comfortable working 
 
 My key skills are:
 
-- JavaScript – Backbone, Underscore, jQuery
-- HTML – HTML4, XHTML1, HTML5
-- CSS – CSS 2, CSS 3, LESS, SASS, Compass
+- JavaScript – React, Backbone, jQuery
+- HTML
+- CSS – LESS, SASS, Compass
 - Git
 
 I have experience working with:
@@ -61,6 +61,7 @@ I have experience working with:
 - Python – Django, Flask
 - PHP – Laravel, Zend, Kohana, Symfony
 - Ruby – Ruby on Rails
+
 
 ### Talks & Lectures
 
@@ -72,8 +73,7 @@ I have experience working with:
 
 ### Interests
 
-I usually spend my spare time with my wife and friends. I love to cook, explore nice restaurants and pubs, watch movies, go out, have fun, occasionaly read a a non-work related book and workout.
-
+I usually spend my spare time with my family and friends. I love to code, cook, explore restaurants and pubs, watch movies, practice drums, go out, have fun, occasionaly read a non-work related book.
 
 
 ### People I love spending time with
