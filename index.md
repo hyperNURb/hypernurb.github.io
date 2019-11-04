@@ -26,6 +26,10 @@ Applications I've worked on were used by large brand names like
 *T-Mobile*…
 
 
+##### Octane AI
+Octane AI is a Facebook Messenger chatbot platform that specializes in ecommerce marketing. My resposibilities were to develop features focused around Shopify integration and build 3rd party platform integrations.
+
+
 ##### Reciprocity Inc.
 I was hired as a subcontractor for an open-source _GGRC_ (Google Governance, Risk and Compliance) project led by Google. One of my primary duties is to improve the current front end architecture and its performance.
 
