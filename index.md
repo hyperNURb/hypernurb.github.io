@@ -27,11 +27,11 @@ Applications I've worked on were used by large brand names like
 
 
 ##### Octane AI
-Octane AI is a Facebook Messenger chatbot platform that specializes in ecommerce marketing. My resposibilities were to develop features focused around our Shopify integration and build 3rd party platform integrations. During the time I was there the Octane AI Shopify App was featured by Shopify twice and also was a trending app in their app store.
+Octane AI is a Facebook Messenger chatbot platform that specializes in ecommerce marketing. My resposibilities were to develop features focused around our Shopify integration and build 3rd party platform integrations. During the time I was there the Octane AI Shopify App was featured by Shopify twice and was also a trending app in their app store.
 
 
 ##### Reciprocity Inc.
-I was hired as a subcontractor for an open-source _GGRC_ (Google Governance, Risk and Compliance) project led by Google. One of my primary duties is to improve the current front end architecture and its performance.
+I was hired as a subcontractor for an open-source _GGRC_ (Google Governance, Risk and Compliance) project led by Google. One of my primary duties was to improve the current front end architecture and its performance.
 
 
 ##### Rebelmouse
@@ -40,7 +40,7 @@ We were recognized as one of the best in [Time](http://techland.time.com/2013/05
 
 
 ##### Saturized
-I joined Saturized, an award-winning design agency, in order to help them provide their clients  with a superior exprience and pixel perfect designs. My duties were to establish and lead a front end development team and standardize their development processes.
+I joined Saturized, an award-winning design agency, in order to help them provide their clients with a superior exprience and pixel perfect designs. My duties were to establish and lead a front end development team and standardize their development processes.
 
 If you wish to see detailed clients and project list, [get in touch with me](mailto:ivan+website@simplified.me).
 
@@ -89,7 +89,7 @@ I usually spend my spare time with my family and friends. I love to code, cook, 
 [Goran Bajazetov](http://www.bajazetov.com),
 [Nemanja Glumac](http://www.nemanjaglumac.com),
 [Nemanja Ivanović](http://nemanjaivanovic.com),
-[Slobodan Kovacević](http://www.slobodankovacevic.com),
+[Slobodan Kovačević](http://www.slobodankovacevic.com),
 [Milan Živković](http://www.designer.rs),
 [Srđan Vranac](http://blog.code4hire.com),
 [Miroslav Georgijević](http://www.georgijevic.com),
